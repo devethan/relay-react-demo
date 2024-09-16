@@ -64,7 +64,7 @@
     "@types/jest": "^25.2.1",
     "@types/react": "^16.9.35",
     "@types/react-native": "^0.62.7",
-    "@types/react-relay": "^7.0.7",
+    "@types/react-relay": "^7.0.10",
     "@types/react-test-renderer": "^16.9",
     "@types/relay-runtime": "^8.0.9",
     "@types/relay-test-utils": "^6.0.2",
